@@ -11,6 +11,9 @@ A simple blogs app using node.js to implement <strong>CRUD</strong> operations:-
 # 4. Delete blogs from database
 
 > How to run
+>
 >> open git command line
+>
 >> git clone https://github.com/bhaskar164/blogs-app.git 
+>
 >> run node app.js
