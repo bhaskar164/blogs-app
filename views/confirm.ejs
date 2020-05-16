@@ -1,0 +1,11 @@
+<%- include("./partials/header") %>
+<div class="ui main text container segment ">
+		<form  class="ui form" method="GET" action="/blogs/<%=id%>">
+		  <div class="field">
+			  <h1>Are You sure?</h1>
+			  <input type="text" name="choice">
+			</div>
+		  <button class="ui button" type="submit">Submit</button>
+		</form>
+</div>
+<%- include("./partials/footer") %>
