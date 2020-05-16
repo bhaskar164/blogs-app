@@ -10,7 +10,7 @@ A simple blogs app using node.js to implement <strong>CRUD</strong> operations:-
 
 # 4. Delete blogs from database
 
-> How to run
+> <h3>How to run the app</h3>
 >
 >> open git command line
 >
